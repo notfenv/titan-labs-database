@@ -3,12 +3,33 @@ EvilAllowedGuy=true
 
 # This is an example of a blacklisted user.
 EvilBlacklistedGuy=false
+pcmannn=false
+DeltaTheKid=false
+nobody666054=false
+Cheeto_meow1823=false
+honeyboy050119=false
+tectonic_plating=false
+Operation_TNT=false
+Aizens0sukee=false
+poova2=false
+Icky_day=false
+JOE_ALV=false
+20087_18=false
+jake323132=false
+MagnusCobalorum=false
+cheezeit09=false
+Kkcoolking85=false
+vWhiff=false
+SLG_poi=false
+mastergangs21=false
+AetherDelium=false
+Jeffman2115=false
+invixtia=false
 
 # Whitelisted peeps
 Developers=true
 WyildNKrazy05BK=true
 MrWestern=true
-nobody666054=true
 EpicExoticMemes=true
 contrayhalo=true
 
