@@ -10,6 +10,12 @@ Be mindful that this is __case sensitive__.
 
 # RULES
 Do not grief the whitelist file.
+
 Do not grief the README.
+
 Do not insert/remove people for no reason. Preferably state the reason in the commit menu.
+
 <img width="1403" height="700" alt="image" src="https://github.com/user-attachments/assets/3b4b7089-6e38-4f42-b7eb-6f9e338ce341" />
+
+# GETTING ACCESS
+To get access to this Repository, make a Github account and message @notfenv on Discord with your Github account username.
