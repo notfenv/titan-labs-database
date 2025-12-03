@@ -8,6 +8,8 @@ notfenv=true
 
 Be mindful that this is __case sensitive__.
 
+To add commits, add a hashtag symbol before the designation.
+
 # RULES
 Do not grief the whitelist file.
 
