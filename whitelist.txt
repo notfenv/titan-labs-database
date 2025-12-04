@@ -2,6 +2,7 @@
 EvilAllowedGuy=true
 
 # This is an example of a blacklisted user.
+EvilBlacklistedGuy=false
 
 # Whitelisted peeps
 Developers=true
@@ -10,8 +11,7 @@ MrWestern=true
 EpicExoticMemes=true
 contrayhalo=true
 
-# Blacklisted peeps (citation needed)
-EvilBlacklistedGuy=false
+# Blacklisted peeps
 pcmannn=false
 DeltaTheKid=false
 nobody666054=false
