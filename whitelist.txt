@@ -1,11 +1,4 @@
-# This is an example of a whitelisted user.
-EvilAllowedGuy=true
-
-# This is an example of a blacklisted user.
-EvilBlacklistedGuy=false
-
 # Whitelisted peeps
-Developers=true
 WyildNKrazy05BK=true
 MrWestern=true
 EpicExoticMemes=true
