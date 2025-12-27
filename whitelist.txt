@@ -27,4 +27,3 @@ mastergangs21=false
 AetherDellium=false
 Jeffman2115=false
 invixtia=false
-not_rwar=false
